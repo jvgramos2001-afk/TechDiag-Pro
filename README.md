@@ -33,6 +33,14 @@ python TechDiag.py
 
 Projeto criado para praticar automação utilizando Python, aplicando conceitos de monitoramento de recursos, coleta de informações do sistema e geração de relatórios para ambientes de suporte técnico e infraestrutura.
 
+## Próximas Melhorias
+
+* Exportação para CSV
+* Teste de conectividade de rede
+* Verificação de DNS
+* Interface gráfica
+* Coleta de informações de rede mais detalhadas
+
 ## Autor
 
 João Vitor Gama Ramos
