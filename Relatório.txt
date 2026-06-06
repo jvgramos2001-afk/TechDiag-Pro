@@ -9,7 +9,7 @@ Data/Hora: 06/06/2026 01:51:36
 
 Usuário: jvgra
 Computador: Joao
-IP Local: 192.168.0.11
+IP Local: 192.168.x.xx
 
 ===== SISTEMA =====
 
