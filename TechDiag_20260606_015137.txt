@@ -1,0 +1,54 @@
+
+==================================================
+TECHDIAG PRO - RELATÓRIO DE DIAGNÓSTICO
+==================================================
+
+Data/Hora: 06/06/2026 01:51:36
+
+===== IDENTIFICAÇÃO =====
+
+Usuário: jvgra
+Computador: Joao
+IP Local: 192.168.0.11
+
+===== SISTEMA =====
+
+Sistema Operacional: Windows
+Versão: 10.0.22631
+Arquitetura: 64bit
+
+===== HARDWARE =====
+
+Processador: AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD
+
+===== TEMPO DE ATIVIDADE =====
+
+Última Inicialização:
+05/06/2026 18:43:09
+
+Tempo Ligado:
+7:08:28
+
+===== CPU =====
+
+Uso Atual: 6.7%
+
+===== MEMÓRIA RAM =====
+
+Total: 15.95 GB
+Disponível: 4.09 GB
+Uso: 74.3%
+
+===== DISCO =====
+
+Total: 476.16 GB
+Livre: 118.30 GB
+Uso: 75.2%
+
+===== ALERTAS =====
+
+- Nenhum alerta encontrado
+
+==================================================
+FIM DO RELATÓRIO
+==================================================
